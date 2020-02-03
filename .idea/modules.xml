@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://E:/WorkRepos/AmazonCrawlerAutomotive/.idea/AmazonCrawlerAutomotive.iml" filepath="E:/WorkRepos/AmazonCrawlerAutomotive/.idea/AmazonCrawlerAutomotive.iml" />
+      <module fileurl="file://E:/WorkRepos/FastlyCrawler/.idea/FastlyCrawler.iml" filepath="E:/WorkRepos/FastlyCrawler/.idea/FastlyCrawler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Huffman.iml" filepath="$PROJECT_DIR$/.idea/Huffman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Lab7/.idea/Lab7.iml" filepath="$PROJECT_DIR$/../Lab7/.idea/Lab7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Lab8/.idea/Lab8.iml" filepath="$PROJECT_DIR$/../Lab8/.idea/Lab8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Lab9/.idea/Lab9.iml" filepath="$PROJECT_DIR$/../Lab9/.idea/Lab9.iml" />
-      <module fileurl="file://E:/SophiaContainer/.idea/SophiaContainer.iml" filepath="E:/SophiaContainer/.idea/SophiaContainer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../TestVlad/.idea/TestVlad.iml" filepath="$PROJECT_DIR$/../TestVlad/.idea/TestVlad.iml" />
-      <module fileurl="file://E:/WEBTECHPROJ/.idea/WEBTECHPROJ.iml" filepath="E:/WEBTECHPROJ/.idea/WEBTECHPROJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PriceChecker/.idea/PriceChecker.iml" filepath="$PROJECT_DIR$/../PriceChecker/.idea/PriceChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Shit/.idea/Shit.iml" filepath="$PROJECT_DIR$/../Shit/.idea/Shit.iml" />
     </modules>
   </component>
 </project>
