@@ -15,6 +15,7 @@
     <orderEntry type="module" module-name="AmazonCrawlerAutomotive" />
     <orderEntry type="module" module-name="Shit" />
     <orderEntry type="module" module-name="PriceChecker" />
+    <orderEntry type="module" module-name="TermRewriting" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

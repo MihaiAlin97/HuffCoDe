@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Huffman.iml" filepath="$PROJECT_DIR$/.idea/Huffman.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PriceChecker/.idea/PriceChecker.iml" filepath="$PROJECT_DIR$/../PriceChecker/.idea/PriceChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Shit/.idea/Shit.iml" filepath="$PROJECT_DIR$/../Shit/.idea/Shit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TermRewriting/.idea/TermRewriting.iml" filepath="$PROJECT_DIR$/../TermRewriting/.idea/TermRewriting.iml" />
     </modules>
   </component>
 </project>
